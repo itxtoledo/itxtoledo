@@ -1,6 +1,6 @@
-## Hi, I'm Toledo! 👋
+## Hi, I'm Gustavo Toledo 🇧🇷🇪🇸! 👋
 
-I'm a blockchain developer focused on decentralized solutions and cryptocurrency projects. Check out some of my key open-source work and tools:
+I'm a Brazilian blockchain developer and digital nomad, speaking Portuguese and English, and currently learning Spanish and Italian. I focus on building decentralized solutions and cryptocurrency projects. Here are some of my key open-source works and tools:
 
 ### 🚀 Projects
 
