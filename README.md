@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Toledo! 👋
 
-<!--
-**itxtoledo/itxtoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a blockchain developer focused on decentralized solutions and cryptocurrency projects. Check out some of my key open-source work and tools:
 
-Here are some ideas to get you started:
+### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Tokenization Platform](https://github.com/itxtoledo/tokenization-platform)**  
+  A platform for creating, managing, and trading tokenized assets on the blockchain.
+
+- **[Ethereum RPC Pool](https://github.com/itxtoledo/ethereum-rpc-pool)**  
+  A Go-based proxy server for load balancing POST requests across Ethereum RPC endpoints.
+
+- **[Debook](https://github.com/itxtoledo/debook)**  
+  Proof-of-concept for a decentralized order book and matching engine.
+
+- **[JS Exchanges Connector](https://github.com/coinsambacom/js-exchanges-connector)**  
+  A JavaScript library for fetching data from cryptocurrency exchanges.
+
+### 🔧 Notable creation
+
+- **[Coinsamba](https://coinsamba.com/)**  
+  Brazil's largest cryptocurrency price comparison tool, factoring in slippage and fees (not open-source).
+
+---
+
+Feel free to explore and contribute to these projects! 😊
+
+--- 
