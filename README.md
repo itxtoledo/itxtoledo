@@ -20,9 +20,3 @@ I'm a Brazilian blockchain developer and digital nomad, speaking Portuguese and 
 
 - **[Coinsamba](https://coinsamba.com/)**  
   Brazil's largest cryptocurrency price comparison tool, factoring in slippage and fees (not open-source).
-
----
-
-Feel free to explore and contribute to these projects! 😊
-
---- 
